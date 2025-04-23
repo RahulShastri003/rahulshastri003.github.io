@@ -4,10 +4,12 @@ layout: default
 
 ### Peer-reviewed Writing
 
-1. M.Brozen, T.Black, R.Liggett: Comparing Measures and Variables in Multimodal Street Performance Calculations ( [paper](http://trrjournalonline.trb.org/doi/10.3141/2420-01) )
-2. T.Black, J.Swartz, T.Fremaux - Vision Zero and Beyond: A Simple Yet Powerful Data Strategy for Evaluating Potential Engineering Solutions ( [paper](documents/TRB2017_VisionZeroBeyond_Paper.pdf) / [poster](documents/TRB2017_VisionZeroBeyond_Poster.pdf) )
-3. T.Black - Redefining "Transportation Impact": A Comparison of Emerging Methodologies ( [paper](documents/TRB2015_SB743_Paper.pdf) / [slides](documents/TRB2015_SB743_Slides.pdf) )
-4. M.Brozen, T.Black, H.Huff, R.Liggett - Multimodal Street Performance Measure Sensitivity Case Study: How to Get an A ( [poster](documents/TRB2015_MMLOS_Poster.pdf) )
+1. Dephasing enabled fast charging of quantum batteries, Rahul Shastri, Chao
+Jiang, Guo-Hua Xu, B. Prasanna Venkatesh, and Gentaro Watanabe, ([npj Quantum Information 11,9 (2025)](https://www.nature.com/articles/s41534-025-00959-5) )
+2. Controlling Work Output and Coherence in Finite Time Quantum Otto
+Engines Through Monitoring, Rahul Shastri and B. Prasanna Venkatesh ( [Phys. Rev. E 109, 014102 (2024)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.014102))
+3. Optimization of asymmetric quantum Otto engine cycles, Rahul Shastri and
+B. Prasanna Venkatesh ([Phys. Rev. E 106, 024123 (2022)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.024123) )
 
 <div id="articles">
 
