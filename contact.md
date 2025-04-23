@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:rahul16shastri@gmail.com)
+* Email: [rahul16shastri@gmail.com](mailto:rahul16shastri@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+91-7874582043](tel:+91-7874582043)
 
 ---
 
