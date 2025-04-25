@@ -1,8 +1,11 @@
-- name: "writing"
-  link: "https://rahulshastri003.github.io/writing"
-
-- name: "projects"
-  link: "https://rahulshastri003.github.io/projects"
-
-- name: "home"
-  link: "https://rahulshastri003.github.io"
+- name: "Personal"
+  link: "https://arunravishankar.github.io/personal"
+  
+- name: "Independent Projects"
+  link: "https://arunravishankar.github.io/projects"
+ 
+- name: "Research"
+  link: "https://arunravishankar.github.io/research"
+  
+- name: "Home"
+  link: "https://arunravishankar.github.io"
