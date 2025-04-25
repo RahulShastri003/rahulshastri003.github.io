@@ -30,7 +30,9 @@ Otto engine through monitoring - Conference talk given at Quantum Thermodynamics
 
 # Pre-doctoral research
 
-My research interests 
+## Project Assistant
+
+Immediately after completing my master’s degree and before starting my PhD, I worked for one year as a Project Assistant on a project titled "Zero-Carbon Solar-powered Hydrogen Production via Plasmonic Nano-antenna Enhanced Photocatalytic Water-Splitting." The project focused on developing sustainable methods for hydrogen generation using sunlight. Working on this project gave me significant hands-on experience with tools like COMSOL Multiphysics and other simulation software to model electromagnetic fields and study the absorption and scattering properties of nanomaterials. My work involved understanding and optimizing nanomaterial geometries in the context of their application to artificial photosynthesis through photocatalytic water-splitting. This role significantly strengthened my computational and data analysis skills. It was also the first time I worked on something outside the domain of theoretical physics—more on the side of engineering physics—with a strong emphasis on practical applications in clean energy technologies.
 
 
 
