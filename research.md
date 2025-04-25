@@ -7,9 +7,9 @@ Quantum thermodynamics is a rich and growing field that asks a fundamental quest
 
 The first problem I looked at was a four-stroke, finite-time quantum Otto engine cycle (analogous to the classical Otto engine—the kind that powers car engines). Each of the four strokes occurs over a finite time. We asked whether running the engine in an asymmetric way—spending more time on one stroke than the others—could lead to better performance. Interestingly, we found that for certain asymmetric cycle durations, the engine not only produced more work output but did so more reliably [3].
 
-The next question I considered was the role of quantum measurements (an inherently strange and fascinating aspect of quantum theory) in the performance of quantum heat engines. We asked: could the act of measuring the quantum working substance of a quantum Otto engine actually help control or improve the engine’s performance? By modeling different measurement schemes, we found that some types of measurements could indeed enhance the average work output and reduce fluctuations [2].
+The next question I considered was the role of quantum measurements (an inherently strange and fascinating aspect of quantum theory) on the performance of QHEs. We asked: could the act of measuring the quantum working substance of a quantum Otto engine actually help control or improve the engine’s performance? By modeling different measurement schemes, we found that some types of measurements could indeed enhance the average work output and reduce fluctuations [2].
 
-Finally, I turned to another interesting device: quantum batteries—tiny quantum systems that can be used to store energy. Since QBs are always in contact with the external environment, we typically expect environmental noise to degrade their performance. But we asked whether environmental noise could actually be useful—and surprisingly, the answer is yes. We showed that a carefully tuned amount of environmental noise (more specifically, dephasing, which tends to destroy quantum coherence) could help charge the QB more quickly and in a more robust manner [1]. This points to a more nuanced view of noise—not always as a hindrance, but sometimes as a helpful tool
+Finally, I turned to another interesting device: QBs—tiny quantum systems that can be used to store energy. Since QBs are always in contact with the external environment, we naturally expect environmental noise to degrade their performance. But we asked whether environmental noise could actually be useful—and surprisingly, the answer is yes. We showed that a carefully tuned amount of environmental noise (more specifically, dephasing, which tends to destroy quantum coherence) could help charge the QBs faster and in a more robust manner [1]. This points to a more nuanced view of noise—not always as a hindrance, but sometimes as a helpful tool
 
 ## Publications
  
@@ -22,8 +22,6 @@ Engines Through Monitoring [Phys. Rev. E 109, 014102 (2024)](https://journals.ap
 3.  Rahul Shastri, B. Prasanna Venkatesh: Optimization of asymmetric quantum Otto engine cycles [Phys. Rev. E 106, 024123 (2022)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.024123)
 
 ## Talks
-
-Here are some of the talks I have given.
 
 1. Controlling coherence in finite time Quantum
 Otto engine through monitoring - Conference talk given at Quantum Thermodynamics Down Under 2023, Brisbane, Queensland, Australia, EQUS
