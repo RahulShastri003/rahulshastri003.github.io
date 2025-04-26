@@ -11,7 +11,7 @@ The next question I considered was the role of quantum measurements (an inherent
 
 Finally, I turned to another interesting device: QBs—tiny quantum systems that can be used to store energy. Since QBs are always in contact with the external environment, we naturally expect environmental noise to degrade their performance. But we asked whether environmental noise could actually be useful—and surprisingly, the answer is yes. We showed that a carefully tuned amount of environmental noise (more specifically, dephasing, which tends to destroy quantum coherence) could help charge the QBs faster and in a more robust manner [1]. This points to a more nuanced view of noise—not always as a hindrance, but sometimes as a helpful tool
 
-## Publications
+## Selected Publications
  
 1.  Rahul Shastri, Chao
 Jiang, Guo-Hua Xu, B. Prasanna Venkatesh, Gentaro Watanabe: Dephasing enabled fast charging of quantum batteries, [npj Quantum Information 11,9 (2025)](https://www.nature.com/articles/s41534-025-00959-5)
@@ -21,7 +21,7 @@ Engines Through Monitoring [Phys. Rev. E 109, 014102 (2024)](https://journals.ap
 
 3.  Rahul Shastri, B. Prasanna Venkatesh: Optimization of asymmetric quantum Otto engine cycles [Phys. Rev. E 106, 024123 (2022)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.024123)
 
-## Talks
+## Selected Talks/Presenations
 
 1. Controlling coherence in finite time Quantum
 Otto engine through monitoring - Conference talk given at Quantum Thermodynamics Down Under 2023, Brisbane, Queensland, Australia, EQUS
