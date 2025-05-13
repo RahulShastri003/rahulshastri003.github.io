@@ -5,7 +5,5 @@ layout: default
 
 # Personal
 
-* I am also..
-  
-* And this
+* Page Under Construction
 
