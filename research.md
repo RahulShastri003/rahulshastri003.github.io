@@ -9,7 +9,7 @@ We are all familiar with the laws of thermodynamics—take, for example, the fam
 </p>
 
 <p align="justify" style="text-indent: 30px;">
-The field of open quantum systems and quantum thermodynamics is devoted to addressing precisely these kinds of questions. Thanks to remarkable experimental advances over the past two decades, quantum thermodynamics has seen rapid growth, opening up a wide array of exciting research directions. Among these, one approach is to follow in the footsteps of pioneers like Sadi Carnot, who laid the groundwork for thermodynamics by studying the efficiencies of ideal thermal machines such as heat engines and refrigerators. In the quantum realm, this translates into the study of quantum heat engines (QHEs) and quantum batteries (QBs), devices that harness uniquely quantum features for thermodynamic tasks.
+The field of open quantum systems and quantum thermodynamics is devoted to addressing precisely these kinds of questions. Thanks to remarkable experimental advances over the past two decades, quantum thermodynamics has seen rapid growth, opening up a wide array of exciting research directions. Among these, one approach is to follow on the footsteps of pioneers like Sadi Carnot, who laid the groundwork for thermodynamics by studying the efficiencies of ideal thermal machines such as heat engines and refrigerators. In the quantum realm, this translates into the study of quantum heat engines (QHEs) and quantum batteries (QBs), devices that harness uniquely quantum features for thermodynamic tasks.
 </p>
 
 <p align="justify" style="text-indent: 30px;">
