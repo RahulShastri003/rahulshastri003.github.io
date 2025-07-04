@@ -6,11 +6,10 @@ layout: default
 
 <img class="profile-picture" src="profile_photo_square.jpg">
 
+<p align="justify" style="text-indent: 30px;">
 I am theoretical physicist interested in open quantum systems, quantum thermodynamics and non-equilibrium statistical mechanics.
+</p>
 
-Please take a look at my [resume](documents/masterCV.pdf) or reach out to me at [rahul16shastri@gmail.com](mailto:rahul16shastri@gmail.com). I also maintained Linkdin profile [Linkdin](https://www.linkedin.com/in/rahul-shastri-34a626144/).  
- 
- 
- 
- 
+Please take a look at my [resume](documents/masterCV.pdf) or reach out to me at [rahul16shastri@gmail.com](mailto:rahul16shastri@gmail.com). I also maintained Linkdin profile [Linkdin](https://www.linkedin.com/in/rahul-shastri-34a626144/). 
+
 ---
