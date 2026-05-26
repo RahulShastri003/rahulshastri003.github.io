@@ -5,14 +5,19 @@ title: Projects
 
 # Projects
 
-As a resercher I had to apply for postdocs, fellowships, grants etc, for which I realized that keeping track of deadlines, customized CVs, research statements, cover letters, notes, follow-ups, and reminders can quickly become messy. To solve this issue I started building this tools to make this process easier.
-
 <div class="project-list">
 
 <p>
 <span class="project-number">[1]</span>
 <span class="project-text">
-I built an <a href="https://github.com/RahulShastri003/application-tracker" target="_blank">Application Tracker</a> to organize multiple applications in one place. The tool keeps track of deadlines, application status, notes, documents, follow-ups, and reminders. It is useful for academic applications, postdoctoral positions, fellowships, internships, and job applications.
+As a researcher, I have had to apply for postdoctoral positions, fellowships, grants, and other opportunities. I realized that keeping track of deadlines, customized CVs, research statements, cover letters, notes, follow-ups, and reminders can quickly become messy. To make this process easier, I built an <a href="https://github.com/RahulShastri003/application-tracker" target="_blank">Application Tracker</a>.
+</span>
+</p>
+
+<p>
+<span class="project-number"></span>
+<span class="project-text">
+The tool organizes multiple applications in one place and keeps track of deadlines, application status, notes, documents, follow-ups, and reminders. It is useful for academic applications, postdoctoral positions, fellowships, internships, grants, and job applications.
 </span>
 </p>
 
@@ -26,7 +31,7 @@ The app also includes AI assistance. Users can connect it to an LLM provider of 
 <p>
 <span class="project-number"></span>
 <span class="project-text">
-The project is open source, and contributions or suggestions are welcome.
+The project is open source, and contributions, suggestions, and feedback are welcome.
 </span>
 </p>
 
