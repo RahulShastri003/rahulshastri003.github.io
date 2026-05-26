@@ -5,7 +5,7 @@ title: Projects
 
 # Projects
 
-During my applications for academic positions, postdocs, fellowships, and other opportunities, I realized that keeping track of deadlines, customized CVs, research statements, cover letters, notes, follow-ups, and reminders can quickly become messy. I started building small tools to make this process easier.
+As a resercher I had to apply for postdocs, fellowships, grants etc, for which I realized that keeping track of deadlines, customized CVs, research statements, cover letters, notes, follow-ups, and reminders can quickly become messy. To solve this issue I started building this tools to make this process easier.
 
 <div class="project-list">
 
