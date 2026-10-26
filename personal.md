@@ -21,7 +21,7 @@ Seven tokens occupy the seven regions of a three-circle Venn diagram, initially 
 
 Can we reach a configuration in which only the central token is black?
 
-[Problem and solution (PDF)](/assets/pdfs/three-circles-seven-tokens.pdf)
+[Problem and solution (PDF)](/documents/problems/three-circles-seven-tokens.pdf)
 
 A problem Vyom (JNU) and I discussed on a blackboard before dinner. We found a solution by working backwards from the desired configuration and following the possible moves until the configurations began to repeat.
 
