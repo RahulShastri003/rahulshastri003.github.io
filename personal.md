@@ -1,38 +1,31 @@
 
 ---
 layout: default
+title: Miscellany
+permalink: /personal/
 ---
 
 # Miscellany
 
-This is a rather informal collection of things I have come across and found interesting enough to keep a note of.
-
-Some are problems that came up in conversations, books, or otherwise unplanned discussions. Others are books I have read. There is no particular theme or order, and I don't intend to be especially systematic about updating this page.
-
-For the problems, I may occasionally include a solution or an unsuccessful attempt. I often do not know their original sources, and the solutions need not be new. This is simply a place to collect things that caught my attention.
-
----
+A small collection of things I have come across and found interesting enough to keep a note of: mathematical problems, books, and perhaps other things from time to time. Some problems are solved, others may not be, and I may not always know their original sources. There is no particular theme or order, nor any intention to maintain a complete or systematic collection.
 
 ## Interesting Problems
 
 ### 1. Three Circles and Seven Tokens
 
-Seven tokens occupy the seven regions of a three-circle Venn diagram, initially all white. We may either flip all tokens in any one circle or make all tokens in a chosen circle white.
+Consider three overlapping circles A, B, and C, forming seven regions, with one token placed in each region. Initially, all seven tokens are white.
 
-Can we reach a configuration in which only the central token is black?
+We are allowed two kinds of moves:
 
-[Problem and solution (PDF)](/documents/problems/three-circles-seven-tokens.pdf)
+1. **Flip:** Choose any one circle and flip all four tokens inside it (white to black and black to white).
+2. **Make white:** Choose any one circle and make all the tokens inside it white, leaving the other tokens unchanged.
 
-A problem Vyom (JNU) and I discussed on a blackboard before dinner. We found a solution by working backwards from the desired configuration and following the possible moves until the configurations began to repeat.
+**Question:** Starting from the all-white configuration, is it possible to reach a configuration in which only the central token, common to all three circles, is black and the remaining six tokens are white?
 
-*Source unknown.*
-
----
+[Problem and solution (PDF)]({{ '/documents/problems/three-circles-seven-tokens.pdf' | relative_url }})
 
 ## Books
 
-A list of books I have read. Not necessarily recommendations or a complete record of everything I have read. Occasionally, I might add a few thoughts about a book if I have something interesting to say.
-
-### Read
+A list of books I have read, with occasional notes.
 
 - *Sapiens: A Brief History of Humankind* — Yuval Noah Harari
